@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Task 3</string>
+    <string name="name_percentage">%d </string>
+</resources>
